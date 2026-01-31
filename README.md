@@ -38,4 +38,4 @@ pip install pm4py pandas numpy torch scikit-learn seaborn matplotlib tqdm
 | + Activity columns | Bag-of-words count per activity |
 
 ## Run
-Open `test2_ata.ipynb` and run all cells in order.
+Open `prediction_model.ipynb` and run all cells in order.
