@@ -1,5 +1,5 @@
 # Group 6 Prediction Model
-[View the Report]("https://github.com/gaurisharma360/process-mining-project/blob/main/Group6_FinalReport.pdf")
+[View the Report](".//Group6_FinalReport.pdf")
 ## Setup Virtual Environment
 ```
 python -m venv venv
