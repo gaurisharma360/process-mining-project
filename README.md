@@ -1,5 +1,5 @@
 # Group 6 Prediction Model
-[View the Report]("./Group6_FinalReport.pdf")
+[View the Report](./Group6_FinalReport.pdf)
 ## Setup Virtual Environment
 ```
 python -m venv venv
